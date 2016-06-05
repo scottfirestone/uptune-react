@@ -2,3 +2,9 @@
   background-color: green;
   color: red;
 }
+
+.brand {
+  display: block;
+  margin: 25px auto;
+  text-align: center;
+}
