@@ -1,7 +1,7 @@
 {
-  "name": "react-playground",
+  "name": "uptune-react",
   "version": "1.0.0",
-  "description": "Super simple React starter repo",
+  "description": "A react front-end for UpTune API",
   "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server --content-base public/ --progress --colors",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/applegrain/react-playground.git"
+    "url": "https://github.com/scottfirestone/uptune-react.git"
   },
-  "author": "Lovisa Svallingson",
+  "author": "Scott Firestone",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/applegrain/react-playground/issues"
+    "url": "https://github.com/scottfirestone/uptune-react/issues"
   },
-  "homepage": "https://github.com/applegrain/react-playground",
+  "homepage": "https://github.com/scottfirestone/uptune-react",
   "devDependencies": {
     "babel": "^6.3.13",
     "babel-core": "^6.3.15",
