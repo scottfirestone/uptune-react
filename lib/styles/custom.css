@@ -1,4 +1,12 @@
 .spotify-button {
   background-color: green;
-  color: red;
+  color: white;
+  display: block;
+  margin: 25px auto;
+}
+
+.brand {
+  display: block;
+  margin: 25px auto;
+  text-align: center;
 }
