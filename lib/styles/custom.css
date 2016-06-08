@@ -10,3 +10,10 @@
   margin: 25px auto;
   text-align: center;
 }
+
+.spotify-search {
+  display: block;
+  margin: 25px auto;
+  text-align: left;
+  width: 300px;
+}
