@@ -28,6 +28,7 @@
     "file-loader": "^0.8.5",
     "node-libs-browser": "^0.5.2",
     "nodemon": "^1.9.1",
+    "superagent": "^2.0.0",
     "url-loader": "^0.5.7",
     "webpack-dev-server": "^1.14.0"
   },
